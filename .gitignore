@@ -1,0 +1,10 @@
+node_modules/
+backend/dist/
+frontend/.next/
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/.env
+frontend/.env.local
+database/*.sqlite-wal
+database/*.sqlite-shm
+*.log
